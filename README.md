@@ -15,7 +15,7 @@ This project normalizes job titles using Java and Maven.
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/your-username/NormalizerProject.git
+   git clone https://github.com/atiliosud/Interview-Normalize-Project
    cd NormalizerProject
    ```
 
@@ -37,5 +37,3 @@ This project normalizes job titles using Java and Maven.
    mvn test
    ```
 ```
-
-Replace `https://github.com/your-username/NormalizerProject.git` with the actual URL of your repository if needed.
